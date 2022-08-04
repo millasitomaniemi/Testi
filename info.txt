@@ -1,1 +1,2 @@
-Stuff here.
+Stuff here. 
+And a new line.
